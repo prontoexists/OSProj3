@@ -10,3 +10,5 @@ file name Insertion, and printing
 Was relatively straight forward, Create, insert, search, load, etc were all used. Made an initial error with the elses and elifs but it was just
 syntax and usage.
 
+5/09/2025 - Took time to research the header format of the project. We use an 8s sequence from the magic value provided while two 64 
+unsigned integers are used twice.
