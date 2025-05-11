@@ -16,3 +16,5 @@ unsigned integers are used twice.
 5/10/2025 - Finished up the commands in main, as well as the implementations among the btree. This was the heaviest load of the day. Individually making sure and testing each function, with debugging statements
 set up to identify errors. At first the files were being created but the confirmation was not being outputted. This eventually changed when I introduced a major loop around the program that ends whenever the user inputs m.
 I did not realize that a file must already be present before load was used, which gave me silly confusion. All in all. I should be able to wrap up tommorow.
+
+5/11/2025 - Final checks and submission. Program works with commands given, including errors. Also updateed the readme as well.
